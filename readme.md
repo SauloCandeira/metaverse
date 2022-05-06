@@ -3,8 +3,8 @@ O metaverso trata-se de um projeto cujo o objeitovo é transformar o Brasil em u
 
 Exemplo: 
 
-Geoportal- DF: <https://www.geoportal.seduh.df.gov.br/geoportal/>
-Geoportal - SP: <https://www.geoportal.com.br/Home>
+Geoportal- DF: <https://www.geoportal.seduh.df.gov.br/geoportal/> <br>
+Geoportal - SP: <https://www.geoportal.com.br/Home> <br>
 
 Principais tecnologias utilizadas:
 
