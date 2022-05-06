@@ -16,13 +16,8 @@ OpenDroneMap
 ### TEMPLATES
 
 ```
-1º - Profile
-2º - Tasks
-3º - Timeline
-4º - Daily Notes
-5º - Analytics
-6º - BPMN
-7º - Laboratory
+1º - Mapa Georeferenciado
+2º - Nuvem de pontos 3D
 ```
 
 
