@@ -1,5 +1,16 @@
 # Sobre o Projeto:
-Repositorio criado para criar novos metodos para deixar o codigo limpo e reponsivo
+O metaverso trata-se de um projeto cujo o objeitovo é transformar o Brasil em um ponto de nuvem,
+
+Exemplo: 
+
+Geoportal- DF: <https://www.geoportal.seduh.df.gov.br/geoportal/>
+Geoportal - SP: <https://www.geoportal.com.br/Home>
+
+Principais tecnologias utilizadas:
+
+Python
+Drones DJI
+OpenDroneMap
 
 
 ### TEMPLATES
