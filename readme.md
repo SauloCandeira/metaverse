@@ -8,9 +8,9 @@ Geoportal - SP: <https://www.geoportal.com.br/Home> <br>
 
 Principais tecnologias utilizadas:
 
-Python
-Drones DJI
-OpenDroneMap
+Python <br>
+Drones DJI <br>
+OpenDroneMap <br>
 
 
 ### TEMPLATES
