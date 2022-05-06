@@ -26,17 +26,11 @@ OpenDroneMap
 ```mermaid
 flowchart LR
 
-B[Project]
+B[PortalGEO]
 
 B --> C{APP}
-C --> P[Profile]
-C --> J[Tasks]
-C --> K[Timeline]
-C --> L[Team]
-C --> M[Daily-Notes]
-C --> N[Analytics]
-C --> O[Laboratory]
-
+C --> P[Maps]
+C --> J[3D]
 ```
 
 ### FONTE:
